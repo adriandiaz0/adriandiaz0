@@ -1,5 +1,5 @@
 - Adrián Díaz A. @adriandiaz0
--  Ingeniero en Computación
+-  Estudiante de Ingeniería en Computación
 -  TEC Costa Rica
 -  Repositorio de proyectos personales
 -  2024
